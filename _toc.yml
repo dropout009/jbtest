@@ -1,5 +1,5 @@
 - file: intro
 - file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+- file: markdown
+- file: notebooks
+- file: notebooks2

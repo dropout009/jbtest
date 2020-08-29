@@ -1,6 +1,6 @@
 # Book settings
-title: My sample book
-author: The Jupyter Book Community
+title: My First Jupyter Book
+author: dropout009
 logo: logo.png
 
 latex:
@@ -10,4 +10,4 @@ latex:
 repository:
   url: https://github.com/dropout009/jbtest
 html:
-  use_issues_button: true
+  use_repository_button: true
